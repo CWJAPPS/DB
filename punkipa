@@ -1,160 +1,161 @@
 [
-  {
-  "id": 1,
-  "name": "Punk IPA",
-  "tagline": "THE BEER THAT STARTED IT ALL.",
-  "first_brewed": "02/2010",
-  "description": "Punk IPA is the beer that kick-started it. This light, golden classic has been subverted with new world hops to create an explosion of flavour. Bursts of caramel and tropical fruit with an all-out riot of grapefruit, pineapple and lychee, precede a spiky bitter finish. This is the beer that started it all - and it’s not done yet...",
-  "image_url": "https://www.brewdog.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/o/bottle_0022_punk-ipa.png",
-  "style": "IPA",
-  "abv": 5.6,
-  "ibu": 40,
-  "fg": 1018,
-  "og": 1095,
-  "ingredients": {
-    "malt": [
-      {
-        "name": "Extra Pale",
-        "amount": {
-          "value": 4.38,
-          "unit": "kilograms"
-        }
-      },
-      {
-        "name": "Caramalt",
-        "amount": {
-          "value": 0.25,
-          "unit": "kilograms"
-        }
-      }
-    ],
-    "hops": [
-      {
-        "name": "Chinook",
-        "amount": {
-          "value": 20,
-          "unit": "grams"
-        },
-        "add": "start",
-        "attribute": "bitter"
-      },
-      {
-        "name": "Ahtanum",
-        "amount": {
-          "value": 12.5,
-          "unit": "grams"
-        },
-        "add": "start",
-        "attribute": "bitter"
-      },
-      {
-        "name": "Chinook",
-        "amount": {
-          "value": 20,
-          "unit": "grams"
-        },
-        "add": "middle",
-        "attribute": "flavour"
-      },
-      {
-        "name": "Ahtanum",
-        "amount": {
-          "value": 12.5,
-          "unit": "grams"
-        },
-        "add": "middle",
-        "attribute": "flavour"
-      },
-      {
-        "name": "Chinook",
-        "amount": {
-          "value": 27.5,
-          "unit": "grams"
-        },
-        "add": "end",
-        "attribute": "flavour"
-      },
-      {
-        "name": "Ahtanum",
-        "amount": {
-          "value": 12.5,
-          "unit": "grams"
-        },
-        "add": "end",
-        "attribute": "flavour"
-      },
-      {
-        "name": "Simcoe",
-        "amount": {
-          "value": 12.5,
-          "unit": "grams"
-        },
-        "add": "end",
-        "attribute": "flavour"
-      },
-      {
-        "name": "Nelson Sauvin",
-        "amount": {
-          "value": 12.5,
-          "unit": "grams"
-        },
-        "add": "end",
-        "attribute": "flavour"
-      },
-      {
-        "name": "Chinook",
-        "amount": {
-          "value": 47.5,
-          "unit": "grams"
-        },
-        "add": "dry hop",
-        "attribute": "aroma"
-      },
-      {
-        "name": "Ahtanum",
-        "amount": {
-          "value": 37.5,
-          "unit": "grams"
-        },
-        "add": "dry hop",
-        "attribute": "aroma"
-      },
-      {
-        "name": "Simcoe",
-        "amount": {
-          "value": 37.5,
-          "unit": "grams"
-        },
-        "add": "dry hop",
-        "attribute": "aroma"
-      },
-      {
-        "name": "Nelson Sauvin",
-        "amount": {
-          "value": 20,
-          "unit": "grams"
-        },
-        "add": "dry hop",
-        "attribute": "aroma"
-      },
-      {
-        "name": "Cascade",
-        "amount": {
-          "value": 37.5,
-          "unit": "grams"
-        },
-        "add": "dry hop",
-        "attribute": "aroma"
-      },
-      {
-        "name": "Amarillo",
-        "amount": {
-          "value": 10,
-          "unit": "grams"
-        },
-        "add": "dry hop",
-        "attribute": "aroma"
-      }
-    ]
-  }
+	{
+		"id": 1,
+		"name": "Punk IPA",
+		"tagline": "THE BEER THAT STARTED IT ALL.",
+		"first_brewed": "02/2010",
+		"description": "Punk IPA is the beer that kick-started it. This light, golden classic has been subverted with new world hops to create an explosion of flavour. Bursts of caramel and tropical fruit with an all-out riot of grapefruit, pineapple and lychee, precede a spiky bitter finish. This is the beer that started it all - and it’s not done yet...",
+		"image_url": "https://www.brewdog.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/o/bottle_0022_punk-ipa.png",
+		"style": "IPA",
+		"abv": 5.6,
+		"ibu": 40,
+		"fg": 1018,
+		"og": 1095,
+		"ingredients": {
+			"malt": [
+				{
+					"name": "Extra Pale",
+					"amount": {
+						"value": 4.38,
+						"unit": "kilograms"
+					}
+				},
+				{
+					"name": "Caramalt",
+					"amount": {
+						"value": 0.25,
+						"unit": "kilograms"
+					}
+				}
+			],
+			"hops": [
+				{
+					"name": "Chinook",
+					"amount": {
+						"value": 20,
+						"unit": "grams"
+					},
+					"add": "start",
+					"attribute": "bitter"
+				},
+				{
+					"name": "Ahtanum",
+					"amount": {
+						"value": 12.5,
+						"unit": "grams"
+					},
+					"add": "start",
+					"attribute": "bitter"
+				},
+				{
+					"name": "Chinook",
+					"amount": {
+						"value": 20,
+						"unit": "grams"
+					},
+					"add": "middle",
+					"attribute": "flavour"
+				},
+				{
+					"name": "Ahtanum",
+					"amount": {
+						"value": 12.5,
+						"unit": "grams"
+					},
+					"add": "middle",
+					"attribute": "flavour"
+				},
+				{
+					"name": "Chinook",
+					"amount": {
+						"value": 27.5,
+						"unit": "grams"
+					},
+					"add": "end",
+					"attribute": "flavour"
+				},
+				{
+					"name": "Ahtanum",
+					"amount": {
+						"value": 12.5,
+						"unit": "grams"
+					},
+					"add": "end",
+					"attribute": "flavour"
+				},
+				{
+					"name": "Simcoe",
+					"amount": {
+						"value": 12.5,
+						"unit": "grams"
+					},
+					"add": "end",
+					"attribute": "flavour"
+				},
+				{
+					"name": "Nelson Sauvin",
+					"amount": {
+						"value": 12.5,
+						"unit": "grams"
+					},
+					"add": "end",
+					"attribute": "flavour"
+				},
+				{
+					"name": "Chinook",
+					"amount": {
+						"value": 47.5,
+						"unit": "grams"
+					},
+					"add": "dry hop",
+					"attribute": "aroma"
+				},
+				{
+					"name": "Ahtanum",
+					"amount": {
+						"value": 37.5,
+						"unit": "grams"
+					},
+					"add": "dry hop",
+					"attribute": "aroma"
+				},
+				{
+					"name": "Simcoe",
+					"amount": {
+						"value": 37.5,
+						"unit": "grams"
+					},
+					"add": "dry hop",
+					"attribute": "aroma"
+				},
+				{
+					"name": "Nelson Sauvin",
+					"amount": {
+						"value": 20,
+						"unit": "grams"
+					},
+					"add": "dry hop",
+					"attribute": "aroma"
+				},
+				{
+					"name": "Cascade",
+					"amount": {
+						"value": 37.5,
+						"unit": "grams"
+					},
+					"add": "dry hop",
+					"attribute": "aroma"
+				},
+				{
+					"name": "Amarillo",
+					"amount": {
+						"value": 10,
+						"unit": "grams"
+					},
+					"add": "dry hop",
+					"attribute": "aroma"
+				}
+			]
+		}
+	}
 ]
