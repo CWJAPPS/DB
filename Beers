@@ -3,12 +3,12 @@
     "id": 1,
     "name": "Punk IPA",
     "image": "https://www.brewdog.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/o/bottle_0022_punk-ipa.png",
-    "description": "THE BEER THAT STARTED IT ALL.",
+    "description": "THE BEER THAT STARTED IT ALL."
   },
   {
     "id": 2,
     "name": "DEAD PONY CLUB",
     "image": "https://www.brewdog.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/o/bottle_0016_dead-pony-club_1.png",
-    "description": "BIG ON FLAVOUR. LOW ON ABV.",
+    "description": "BIG ON FLAVOUR. LOW ON ABV."
   }
 ]
