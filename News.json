@@ -1,206 +1,26 @@
 [
   {
-        "title": "STRAP IN FOR THE BATTLE ARMOR EVENT",
+        "title": "Sample Title",
 	"link": "https://www.ea.com/games/apex-legends/news/battle-armor-event",
-	"img": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2020/04/apex-legends-screenshot-season4-battlearmor.jpg.adapt.crop16x9.431p.jpg",
-	"short_desc": "Up your game as we up the armor. Drop in with your armor locked and prove you’ve got the skills to come out on top."
+	"img": "https://image.shutterstock.com/image-vector/sample-stamp-grunge-texture-vector-260nw-1389188336.jpg",
+	"short_desc": "Sample Description"
+  },
+   {
+        "title": "Sample Title",
+	"link": "https://www.ea.com/games/apex-legends/news/battle-armor-event",
+	"img": "https://image.shutterstock.com/image-vector/sample-stamp-grunge-texture-vector-260nw-1389188336.jpg",
+	"short_desc": "Sample Description"
   },
   {
-        "title": "DON'T LEAVE THIS EXCLUSIVE TWITCH PRIME WRAITH SKIN BEHIND",
-	"link": "https://www.ea.com/en-gb/games/apex-legends/news/twitch-prime-offer-season-4-wraith-forgotten-in-the-void",
-	"img": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2020/04/forgotten-in-the-void-wraith-twitch-prime.jpg.adapt.crop16x9.431p.jpg",
-	"short_desc": "Remember to pick up your Forgotten in the Void Wraith skin, free with your Twitch Prime membership."
+        "title": "Sample Title",
+	"link": "https://www.ea.com/games/apex-legends/news/battle-armor-event",
+	"img": "https://image.shutterstock.com/image-vector/sample-stamp-grunge-texture-vector-260nw-1389188336.jpg",
+	"short_desc": "Sample Description"
   },
   {
-        "title": "THE OLD WAYS EVENT PATCH NOTES",
-	"link": "https://www.ea.com/en-gb/games/apex-legends/news/old-ways-patch-notes",
-	"img": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2020/04/apex-old-ways-crop-3840x2160-min.png.adapt.crop16x9.431p.png",
-	"short_desc": "Learn about all the tweaks, fixes, and updates coming to Apex Legends along with the Old Ways Event."
-  },
-  {
-        "title": "FOLLOW BLOODHOUND’S TRAIL IN THE OLD WAYS LORE EVENT",
-	"link": "https://www.ea.com/en-gb/games/apex-legends/news/the-old-ways",
-	"img": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2020/03/apex-old-ways-crop-featured-image-v2.jpg.adapt.crop16x9.431p.jpg",
-	"short_desc": "Take on the new Bloodhound Town Takeover and unlock exclusive rewards in The Old Ways Event, April 7-21."
-  },
-  {
-        "title": "GET LUCKY WITH THIS EXCLUSIVE TWITCH PRIME MIRAGE SKIN",
-	"link": "https://www.ea.com/en-gb/games/apex-legends/news/twitch-prime-offer-season-4-mirage-lucky-charmer",
-	"img": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2020/03/apex-twitch-prime-lucky-mirage.png.adapt.crop16x9.431p.png",
-	"short_desc": "Go green for St. Patrick’s Day with the Lucky Charmer Mirage skin, free with your Twitch Prime membership."
-  },
-  {
-        "title": "SYSTEM OVERRIDE COLLECTION EVENT PATCH NOTES",
-	"link": "https://www.ea.com/en-gb/games/apex-legends/news/system-override-patch-notes",
-	"img": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2020/02/apex-systemoverrideevent-1920x1080-gibraltar.jpg.adapt.crop16x9.431p.jpg",
-	"short_desc": "Check out all the tweaks, fixes, and updates coming to Apex Legends along with the System Override Event, running March 3-17."
-  },
-  {
-        "title": "GET AMPED FOR THE SYSTEM OVERRIDE COLLECTION EVENT",
-	"link": "https://www.ea.com/en-gb/games/apex-legends/news/system-override",
-	"img": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2020/02/apex-systemoverrideevent-3820-2160-bangalore.jpg.adapt.crop16x9.431p.jpg",
-	"short_desc": "Drop in for new modes, old maps, Legendary Weapon skins, cybernetic cosmetics and more, March 3-17."
-  },
-  {
-        "title": "APEX LEGENDS – SPIN CIRCLES AROUND YOUR ENEMIES WITH THE OCTANE EDITION",
-	"link": "https://www.ea.com/en-gb/games/apex-legends/news/octane-edition",
-	"img": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2020/02/apex-featured-image-octane-edition.jpg.adapt.crop16x9.431p.jpg",
-	"short_desc": "Sink your teeth into the Octane Edition, packed full of juicy items to add to your collection."
-  },
-  {
-        "title": "INVITE THAT SPECIAL SOMEONE TO JOIN YOU FOR RENDEZVOUS",
-	"link": "https://www.ea.com/en-gb/games/apex-legends/news/rendezvous",
-	"img": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2020/02/apex-valentines-crops-horz-3840x2160.jpg.adapt.crop16x9.431p.jpg",
-	"short_desc": "Play Duos and get themed items during the Valentine’s Day Rendezvous - Feb. 11-18"
-  },
-  {
-        "title": "TUG OUT THEIR HEART STRINGS WITH THIS EXCLUSIVE TWITCH PRIME REVENANT SKIN",
-	"link": "https://www.ea.com/en-gb/games/apex-legends/news/twitch-prime-offer-season-4-revenant-gilded-rose",
-	"img": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2020/02/apex-drop3-news-16x9.png.adapt.crop16x9.431p.png",
-	"short_desc": "Get this romantic-ish Revenant skin free with your Twitch Prime membership."
-  },
-  {
-        "title": "SEASON 4 MAP UPDATES EXPLAINED",
-	"link": "https://www.ea.com/en-gb/games/apex-legends/news/season-4-map-update",
-	"img": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2020/02/map-featured.jpg.adapt.crop16x9.431p.jpg",
-	"short_desc": "The Planet Harvester has split Capitol City apart -- and that’s just the start. Learn what you can expect from the latest changes."
-  },
-  {
-        "title": "CLAIM YOUR APEX LEGENDS ANNIVERSARY GIFT",
-	"link": "https://www.ea.com/en-gb/games/apex-legends/news/anniversary-gifts",
-	"img": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2020/01/anniversary-gifts-blog-featured.jpg.adapt.crop16x9.431p.jpg",
-	"short_desc": "Celebrate Our First Anniversary With Free Login Gifts When Season 4 Launches"
-  },
-  {
-        "title": "ANNOUNCING APEX LEGENDS RANKED SERIES 3",
-	"link": "https://www.ea.com/en-gb/games/apex-legends/news/ranked-series-3-details",
-	"img": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2020/01/s2-rank-reward-badges-still.jpg.adapt.crop16x9.431p.jpg",
-	"short_desc": "Get the details on what’s in store for Ranked Leagues when Season 4 - Assimilation launches on February 4."
-  },
-  {
-        "title": "CRAZY MEETS CLASSY WITH THIS EXCLUSIVE TWITCH PRIME CAUSTIC SKIN",
-	"link": "https://www.ea.com/en-gb/games/apex-legends/news/twitch-prime-offer-season-3-caustic-geometric-anomaly",
-	"img": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2020/01/caustic-twitch.jpg.adapt.crop16x9.431p.jpg",
-	"short_desc": "Get this spectacular skin free with your Twitch Prime membership."
-  },
-  {
-        "title": "APEX LEGENDS – GRAND SOIRÉE ARCADE EVENT",
-	"link": "https://www.ea.com/en-gb/games/apex-legends/news/grand-soiree-arcade-event",
-	"img": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2020/01/apex-grand-soiree-crop-1280x720.jpg.adapt.crop16x9.431p.jpg",
-	"short_desc": "Attend the Grand Soirée from January 14-28, featuring seven splendid limited-time modes and plentiful prizes."
-  },
-  {
-        "title": "ANNOUNCING THE APEX LEGENDS GLOBAL SERIES",
-	"link": "https://www.ea.com/en-gb/games/apex-legends/news/global-series-announcement",
-	"img": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/12/apex-gs-featured-image-annoucement-blog.jpg.adapt.crop16x9.431p.jpg",
-	"short_desc": "Online and live events around the world featuring more than $3 million in prizes are coming soon!"
-  },
-  {
-        "title": "HACK YOUR ENEMIES (TO PIECES) WITH AN EXCLUSIVE TWITCH PRIME CRYPTO SKIN",
-	"link": "https://www.ea.com/en-gb/games/apex-legends/news/twitch-prime-offer-season-3-crypto",
-	"img": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/12/1280x720_social.jpg.adapt.crop16x9.431p.jpg",
-	"short_desc": "Get this infectious new skin free with your Twitch Prime membership."
-  },
-  {
-        "title": "MIRAGE’S HOLO-DAY BASH COLLECTION EVENT",
-	"link": "https://www.ea.com/en-gb/games/apex-legends/news/mirages-holoday-bash-event",
-	"img": "https://media.contentapi.ea.com/content/dam/apex-legends/videos/2019/12/holoday-bash/apex-featured-image-holoday-bash.jpg.adapt.crop16x9.431p.jpg",
-	"short_desc": "From December 12 to January 7 we will be running our next limited-time event for Apex Legends, Mirage’s Holo-Day Bash."
-  },
-  {
-        "title": "CLAIM YOUR FREE BP-1 PATHFINDER SKIN",
-	"link": "https://www.ea.com/en-gb/games/apex-legends/news/bp-1-pathfinder-skin",
-	"img": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/11/apex-bp1-16x9.jpg.adapt.crop16x9.431p.jpg",
-	"short_desc": "In Celebration Of Star Wars Jedi: Fallen Order, Apex Legends is releasing the BP-1 Pathfinder Skin for free"
-  },
-  {
-        "title": "APEX LEGENDS LIFELINE AND BLOODHOUND DOUBLE PACK AVAILABLE NOW",
-	"link": "https://www.ea.com/en-gb/games/apex-legends/news/lifeline-edition-bloodhound-edition-physical-release",
-	"img": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/09/retail-sku.jpg.adapt.crop16x9.431p.jpg",
-	"short_desc": "Get exclusive skins for Lifeline and Bloodhound, Apex Coins, and more!"
-  },
-  {
-        "title": "LEVEL CAP INCREASE, PROGRESSION CHANGES, MORE EARNABLE APEX PACKS, AND MORE",
-	"link": "https://www.ea.com/en-gb/games/apex-legends/news/progression-changes",
-	"img": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/11/apex-featured-image-progression-blog-nov-2019.jpg.adapt.crop16x9.431p.jpg",
-	"short_desc": "Learn more about the upcoming changes to Player Level progression and rewards coming December 3rd."
-  },
-  {
-        "title": "WELCOME TO THE APEX LEGENDS SHOP!",
-	"link": "https://www.ea.com/en-gb/games/apex-legends/news/apex-legends-shop",
-	"img": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/11/apex-merch-social-promo-16x9-v1.jpg.adapt.crop16x9.431p.jpg",
-	"short_desc": "Check out what’s available in our grand opening."
-  },
-  {
-        "title": "FIGHT OR FRIGHT COLLECTION EVENT",
-	"link": "https://www.ea.com/en-gb/games/apex-legends/news/fight-or-fright-collection-event",
-	"img": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/10/apex-featured-image-fight-or-fright.jpg.adapt.crop16x9.431p.jpg",
-	"short_desc": "From October 15 to November 5 we will be running our next limited-time event for Apex Legends."
-  },
-  {
-        "title": "START A CHAIN REACTION WITH AN EXCLUSIVE TWITCH PRIME CAUSTIC SKIN",
-	"link": "https://www.ea.com/en-gb/games/apex-legends/news/twitch-prime-offer-season-3-caustic",
-	"img": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/09/apex-twitch-prime-caustic-16x9.jpg.adapt.crop16x9.431p.jpg",
-	"short_desc": "Get this breathtaking skin free with your Twitch Prime membership."
-  },
-  {
-        "title": "APEX LEGENDS RANKED LEAGUE SERIES 2 KICKS OFF OCTOBER 1",
-	"link": "https://www.ea.com/en-gb/games/apex-legends/news/ranked-league-series-2",
-	"img": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/09/apex-featured-image-ranked-leagues-2-update.jpg.adapt.crop16x9.431p.jpg",
-	"short_desc": "Get all the details on Series 2 from the Respawn team"
-  },
-  {
-        "title": "APEX LEGENDS LIFELINE EDITION AND APEX LEGENDS BLOODHOUND EDITION AVAILABLE OCTOBER 18",
-	"link": "https://www.ea.com/en-gb/games/apex-legends/news/lifeline-edition-bloodhound-edition-physical-release",
-	"img": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/09/retail-sku.jpg.adapt.crop16x9.431p.jpg",
-	"short_desc": "Grab exclusive skins for Lifeline and Bloodhound, themed weapon skins, and more in these physical editions of Apex Legends."
-  },
-  {
-        "title": "WATCH THE BEST TEAMS IN THE WORLD COMPETE AT THE APEX PRESEASON INVITATIONAL",
-	"link": "https://www.ea.com/en-gb/games/apex-legends/news/preseason-invitational-2019",
-	"img": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/08/apex-featured-image-preseason-invitational.jpg.adapt.crop16x9.431p.jpg",
-	"short_desc": "Catch all the action September 13 – 15 in Kraków, Poland or streaming live on Twitch, YouTube, Mixer, and Facebook!"
-  },  
-  {
-        "title": "GET TO BAMBOOZLIN’ WITH EXCLUSIVE TWITCH PRIME MIRAGE AND KRABER SKINS",
-	"link": "https://www.ea.com/en-gb/games/apex-legends/news/twitch-prime-offer-season-2-mirage",
-	"img": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/08/apex-twitch-prime-mirage-16x9-optimized.jpg.adapt.crop16x9.431p.jpg",
-	"short_desc": "Grab these skins before they disappear, free with your Twitch Prime membership."
-  },
-  {
-        "title": "VOIDWALKER LIMITED TIME EVENT & PATCH NOTES",
-	"link": "https://www.ea.com/en-gb/games/apex-legends/news/voidwalker-event-patch-notes",
-	"img": "https://media.contentapi.ea.com/content/dam/apex-legends/common/voidwalker-5.jpg.adapt.crop16x9.431p.jpg",
-	"short_desc": "A two-week long event focused on everyone’s favorite interdimensional skirmisher."
-  },
-  {
-        "title": "APEX LEGENDS VOIDWALKER EVENT",
-	"link": "https://www.ea.com/en-gb/games/apex-legends/news/voidwalker-event",
-	"img": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/08/apex-featured-tile-voidwalker-event.jpg.adapt.crop16x9.431p.jpg",
-	"short_desc": "A mysterious research site has been unearthed in Kings Canyon that was used as part of Project: Wraith."
-  },
-  {
-        "title": "APEX LEGENDS EVENT STRUCTURE OVERVIEW",
-	"link": "https://www.ea.com/en-gb/games/apex-legends/news/event-overview",
-	"img": "https://media.contentapi.ea.com/content/dam/apex-legends/common/headers/stock-news-article-headers/cascades/ea-featured-tile-apex-generic-header-cascades-16x9.jpg.adapt.crop16x9.431p.jpg",
-	"short_desc": "Learn more about Apex Legends in-game events from Director of Product Management for Apex Legends, Lee Horn."
-  },
-  {
-        "title": "AN UPDATE ON THE IRON CROWN COLLECTION EVENT",
-	"link": "https://www.ea.com/en-gb/games/apex-legends/news/iron-crown-update",
-	"img": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/03/ea-featured-tile-apex-legends-plays-of-the-week-mar8-16x9.jpg.adapt.crop16x9.431p.jpg",
-	"short_desc": "Respawn Entertainment’s Drew McCoy provides players an update on the event."
-  },
-  {
-        "title": "CRASH INTO AN EXCLUSIVE OCTANE SKIN WITH TWITCH PRIME",
-	"link": "https://www.ea.com/en-gb/games/apex-legends/news/twitch-prime-offer-season-2-octane",
-	"img": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/08/apex-tile-whiplash-octane-twitch-prime-blog-16x9.jpg.adapt.crop16x9.431p.jpg",
-	"short_desc": "Get a skin so good it’ll give you whiplash, free with your Twitch Prime membership."
-  },
-  {
-        "title": "REIGN OVER THE ARENA DURING THE APEX LEGENDS IRON CROWN COLLECTION EVENT",
-	"link": "https://www.ea.com/en-gb/games/apex-legends/news/iron-crown-collection-event-august-2019",
-	"img": "https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/08/iron-crown-featured.jpg.adapt.crop16x9.431p.jpg",
-	"short_desc": "A limited-time Solo mode, an Octane Town Takeover, and more are waiting in the Apex Arena."
+        "title": "Sample Title",
+	"link": "https://www.ea.com/games/apex-legends/news/battle-armor-event",
+	"img": "https://image.shutterstock.com/image-vector/sample-stamp-grunge-texture-vector-260nw-1389188336.jpg",
+	"short_desc": "Sample Description"
   }
 ]
