@@ -1,26 +1,38 @@
 [
   {
-        "title": "Sample Title",
-	"link": "https://www.ea.com/games/apex-legends/news/battle-armor-event",
-	"img": "https://image.shutterstock.com/image-vector/sample-stamp-grunge-texture-vector-260nw-1389188336.jpg",
-	"short_desc": "Sample Description"
+        "title": "VALORANT STORE AND COSMETIC CONTENT",
+	"link": "https://beta.playvalorant.com/en-gb/news/dev/valorant-store-and-cosmetic-content/",
+	"img": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt61300989b4b01e22/5ea899526b62d4563b6ece5c/Omen_skin_banner_asset.jpg.jpg",
+	"short_desc": "Learn about the Store, Contracts, and the VALORANT battle pass."
+  },
+  {
+        "title": "VALORANT PATCH NOTES 0.49",
+	"link": "https://beta.playvalorant.com/en-gb/news/game-updates/valorant-patch-notes-0-49/",
+	"img": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt4a83eaf1df52ff0f/5ea5f19845643457e22869da/Patch_Notes_49_Banner.jpg",
+	"short_desc": "QoL improvements for Phoenix, Observer mode, the Spike, and Competitive mode."
+  },
+  {
+        "title": "02: ON VANGUARD ERRORS/SOLUTIONS, GUN SKINS, AND AGENT PROGRESSION",
+	"link": "https://beta.playvalorant.com/en-gb/news/game-updates/02-on-vanguard-errors-solutions-gun-skins-and-agent-progression/",
+	"img": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt211606cd86782c5e/5ea8199ed4728b0b149190b9/Vanguard_and_Agent_Progression_Banner_v1.jpg",
+	"short_desc": "Week two of our weekly updates, with today’s topics: Vanguard errors/solutions, gun skins, and agent progression."
   },
    {
-        "title": "Sample Title",
-	"link": "https://www.ea.com/games/apex-legends/news/battle-armor-event",
-	"img": "https://image.shutterstock.com/image-vector/sample-stamp-grunge-texture-vector-260nw-1389188336.jpg",
-	"short_desc": "Sample Description"
+        "title": "VALORANT RANKS AND COMPETITIVE MATCHMAKING",
+	"link": "https://beta.playvalorant.com/en-gb/news/dev/valorant-ranks-and-competitive-matchmaking/",
+	"img": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt4110c122627ae99a/5e97d0ac271d775edb04b429/VAL_Ranks_and_Competitive_Banner.jpg",
+	"short_desc": "Master the ranks and learn about VALORANT’s competitive integrity."
   },
   {
-        "title": "Sample Title",
-	"link": "https://www.ea.com/games/apex-legends/news/battle-armor-event",
-	"img": "https://image.shutterstock.com/image-vector/sample-stamp-grunge-texture-vector-260nw-1389188336.jpg",
-	"short_desc": "Sample Description"
+        "title": "VALORANT PATCH NOTES 0.47+",
+	"link": "https://beta.playvalorant.com/en-gb/news/game-updates/valorant-patch-notes-0-47/",
+	"img": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt4a83eaf1df52ff0f/5ea5f19845643457e22869da/Patch_Notes_49_Banner.jpg",
+	"short_desc": "These lightweight patch notes bridge the alpha and closed beta."
   },
   {
-        "title": "Sample Title",
-	"link": "https://www.ea.com/games/apex-legends/news/battle-armor-event",
-	"img": "https://image.shutterstock.com/image-vector/sample-stamp-grunge-texture-vector-260nw-1389188336.jpg",
-	"short_desc": "Sample Description"
+        "title": "01: ON RAZE AND ANTI-CHEAT",
+	"link": "https://beta.playvalorant.com/en-gb/news/game-updates/01-on-raze-and-anti-cheat/",
+	"img": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt26bbdc103e8254eb/5e9de03c6a64bf2a22a109ad/APRIL_21_header.jpg",
+	"short_desc": "The first of our weekly status updates on the VALORANT Closed Beta, today featuring Raze and anti-cheat."
   }
 ]
