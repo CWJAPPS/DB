@@ -1,5 +1,23 @@
 [
   {
+        "title": "VALORANT ASSET KIT",
+	"link": "https://beta.playvalorant.com/en-gb/news/game-updates/valorant-asset-kit/",
+	"img": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltb46f22a7f4f994bd/5e8d001c6477c30c9dd7b5af/VAL_Overlay_Banner_v2.jpg",
+	"short_desc": "Check out the VALORANT closed beta asset kit and stream overlay!"
+  },
+  {
+        "title": "03: ON IN-GAME PLAYER BEHAVIOR AND SERVER INFRASTRUCTURE",
+	"link": "https://beta.playvalorant.com/en-gb/news/game-updates/03-on-in-game-player-behavior-and-server-infrastructure/",
+	"img": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltc21b1ef2430e8ca0/5eb1db693e5c864bda8a4ecb/Player_Behavior_Server_Infrastructure_Banner.jpg",
+	"short_desc": "We’re back this week with some commitments on player behavior and what’s going on with the servers."
+  },
+  {
+        "title": "VALORANT ANTI-CHEAT: WHAT, WHY, AND HOW",
+	"link": "https://beta.playvalorant.com/en-gb/news/dev/valorant-anti-cheat-what-why-and-how",
+	"img": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt000f498aa14143dc/5eb09d3af66b2515dea76eee/anticheat_banner_asset.jpg",
+	"short_desc": "Everyone’s favorite anti-cheat lead, Paul Chamberlain, lays out the what, why, and how of VALORANT anti-cheat."
+  },
+  {
         "title": "VALORANT STORE AND COSMETIC CONTENT",
 	"link": "https://beta.playvalorant.com/en-gb/news/dev/valorant-store-and-cosmetic-content/",
 	"img": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt61300989b4b01e22/5ea899526b62d4563b6ece5c/Omen_skin_banner_asset.jpg.jpg",
