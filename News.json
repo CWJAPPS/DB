@@ -1,15 +1,21 @@
 [
   {
-        "title": "HOW THE VALORANT ARSENAL WAS BUILT",
-	"link": "https://beta.playvalorant.com/en-gb/news/dev/how-the-valorant-arsenal-was-built/",
-	"img": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt129d02395101e8cb/5eb605461ea0c32e33b95f34/Arsenal_banner.jpg",
-	"short_desc": "Art Lead Sean Marino talks about VALORANT weapons, their principles and how they came to be."
+        "title": "04: ON PEEKER’S ADVANTAGE & RANKED",
+	"link": "https://beta.playvalorant.com/en-gb/news/game-updates/04-on-peeker-s-advantage-ranked/",
+	"img": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltc77a279465a18bc0/5ebb584e0538f630430adc4a/Peekers_Advantage_and_Ranked_Banner_v2.jpg",
+	"short_desc": "New week, new us, new topics."
   },
   {
         "title": "VALORANT PATCH NOTES 0.50",
 	"link": "https://beta.playvalorant.com/en-gb/news/game-updates/valorant-patch-notes-0-50/",
 	"img": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt90b2ee87b4d40684/5eb5171844bf8261a04d84ce/Patch_Notes_BRM_VIP_Banner.jpg",
 	"short_desc": "Credit cap, ability cost adjustments, as well as important Agent and weapon updates are part of this beefy patch."
+  },
+  {
+        "title": "HOW THE VALORANT ARSENAL WAS BUILT",
+	"link": "https://beta.playvalorant.com/en-gb/news/dev/how-the-valorant-arsenal-was-built/",
+	"img": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt129d02395101e8cb/5eb605461ea0c32e33b95f34/Arsenal_banner.jpg",
+	"short_desc": "Art Lead Sean Marino talks about VALORANT weapons, their principles and how they came to be."
   },
   {
         "title": "VALORANT ASSET KIT",
