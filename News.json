@@ -1,5 +1,29 @@
 [
   {
+        "title": "WHAT IS THE VALORANT BATTLEPASS?",
+	"link": "https://playvalorant.com/en-gb/news/game-updates/what-is-the-valorant-battlepass/",
+	"img": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt04bbaf78fa3a52dd/5ed06387859dd01a6268936f/KEY_ART_HEADER_1.jpg",
+	"short_desc": "David Cole, progression systems designer, talks VALORANT Act I Battlepass and how to unlock every item."
+  },
+  {
+        "title": "BEGINNER’S GUIDE",
+	"link": "https://playvalorant.com/en-gb/news/announcements/beginners-guide/",
+	"img": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt9befbe71784a3620/5ed1651fc94d6c5071a30b45/WIV_HEader_v3.jpg",
+	"short_desc": "Brimstone wants to make you a better VALORANT Agent."
+  },
+  {
+        "title": "VALORANT COMMUNITY CODE",
+	"link": "https://playvalorant.com/en-gb/news/announcements/valorant-community-code/",
+	"img": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltb3556c43040176d4/5ed07f8398ef630b1d7c0fac/VAL_Community_Code_Banner.jpg",
+	"short_desc": "Here are our expectations of you as we build this long-lasting community together."
+  },
+  {
+        "title": "VALORANT PATCH NOTES 1.0",
+	"link": "https://playvalorant.com/en-gb/news/game-updates/valorant-patch-notes-1-0/",
+	"img": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltcb65be6b210cc2e4/5ed0002698ef630b1d7c0e7c/Patch_Notes_banner.jpg",
+	"short_desc": "New launch stuff! Also, major balance updates for 5 Agents, and  performance and hit registration improvements."
+  },
+  {
         "title": "05: ARE WE READY FOR LAUNCH?",
 	"link": "https://beta.playvalorant.com/en-gb/news/dev/05-are-we-ready-for-launch/",
 	"img": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt0e60bc2e50d6d417/5ec32f2198f79d6925dbdbc4/Ready_header.jpeg",
