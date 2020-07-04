@@ -1,5 +1,29 @@
 [
   {
+        "title": "ASK VALORANT #2",
+	"link": "https://playvalorant.com/en-gb/news/dev/ask-valorant-2/",
+	"img": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blta2e1b0901a88f049/5efa2c27a917b92b287f6c1d/Ask_Riot_Banner_v1.jpg",
+	"short_desc": "This week, Ask VALORANT examines pick & ban, aim punch, and deathmatch mode."
+  },
+  {
+        "title": "HOW WE BALANCE VALORANT",
+	"link": "https://playvalorant.com/en-gb/news/dev/how-we-balance-valorant/",
+	"img": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt2a9815e80e232fb1/5ef41a8edd95051c05e13bae/VAL_How_We_Balance_Banner_v1.jpg",
+	"short_desc": "David Cole, progression systems designer, walks through the careful VALORANT balance process."
+  },
+  {
+        "title": "VALORANT PATCH NOTES 1.02",
+	"link": "https://playvalorant.com/en-gb/news/game-updates/valorant-patch-notes-1-02/",
+	"img": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltfb9695f5f911c9a4/5eebff02146cc4629e1ad6e8/Patch_Notes_PHX_SV0.jpg",
+	"short_desc": "This week in Ask VALORANT looks at Radianite Points, matchmaking balance, new guns, and surrender."
+  },
+  {
+        "title": "VALORANT LAUNCH RANKS & COMPETITIVE",
+	"link": "https://playvalorant.com/en-gb/news/dev/valorant-launch-ranks-competitive/",
+	"img": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt8c1c2786abda8f6d/5eed477b6b547b2c37e3b36a/New_Ranked.jpeg",
+	"short_desc": "Brighteyz updates you on what Ranked and Competitive mode will look like for launch."
+  },
+  {
         "title": "WHAT IS THE VALORANT BATTLEPASS?",
 	"link": "https://playvalorant.com/en-gb/news/game-updates/what-is-the-valorant-battlepass/",
 	"img": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt04bbaf78fa3a52dd/5ed06387859dd01a6268936f/KEY_ART_HEADER_1.jpg",
